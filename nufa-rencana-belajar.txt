@@ -1,7 +1,7 @@
 Rencana Belajar Nufa
 - Belajar Big Data
 - Belajar Machine Learning
+  * Belajar Python
 - Belajar Mobile Dev
-  * Belajar Dart
-  * Belajar Flutter
+  * Belajar Kotlin
 - Belajar public speaaking
