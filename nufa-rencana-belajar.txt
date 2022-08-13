@@ -5,3 +5,5 @@ Rencana Belajar Nufa
   * Belajar Dart
   * Belajar Flutter
 - Belajar public speaaking
+- Belajar Python
+  * Belajar OOP
