@@ -4,3 +4,4 @@ Rencana Belajar Nufa
 - Belajar Mobile Dev
   * Belajar Dart
   * Belajar Flutter
+- Belajar public speaaking
