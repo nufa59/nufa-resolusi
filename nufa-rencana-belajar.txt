@@ -7,3 +7,4 @@ Rencana Belajar Nufa
 - Belajar public speaaking
 - Belajar Python
   * Belajar OOP
+  * Belajar Framework Django
